@@ -1,6 +1,6 @@
 # Hi there, I'm Cloud By Day! 👋
 
-![Banner Image](https://digitalblasphemy.com/sec/nozombies2/)
+![Banner Image]https://digitalblasphemy.com/sec/nozombies2/
 
 ## About Me 🚀
 
