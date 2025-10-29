@@ -1,4 +1,4 @@
-# Hi there, I'm Cloud By Day! 👋
+# Cloud By Day! 
 
 ![Banner Image](https://cdn.digitalblasphemy.com/thumbnail/980x551/cloudterrace2k231_thumbnail_980x551.jpg)
 
