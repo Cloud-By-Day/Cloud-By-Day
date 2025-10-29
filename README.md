@@ -1,6 +1,6 @@
-# Hi there, I'm Cloud By Day! 👋
+# Hi there, I'm [Your Name]! 👋
 
-![Banner Image](https://digitalblasphemy.com/sec/nozombies2)
+![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
