@@ -1,4 +1,4 @@
-# Hi there, I'm [Cloud By Day]! 👋
+# Hi there, I'm Cloud By Day! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
