@@ -1,6 +1,6 @@
 # Cloud By Day! 
 
-![Banner Image](https://cdn.digitalblasphemy.com/thumbnail/980x551/cloudterrace2k231_thumbnail_980x551.jpg)
+![Banner Image](https://www.credly.com/badges/b79e538a-8e06-4b23-a05d-f9ade4256da6/public_url)
 
 ## About Me 🚀
 
