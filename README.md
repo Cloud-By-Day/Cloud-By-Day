@@ -6,11 +6,11 @@
 
 I'm a passionate **[Cloud Engineer]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
+- 🌱 Currently learning: **[SAA Certification, Python, CKS]**
 - 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
+- 🌍 Languages: **[Bash Scripting and A2 into B1 Level of Espanol]**
 - 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- ⚡ Fun fact: **[Once worked with NASA to solve an issue... Houston-We Have a Tech On The Line!!]**
 
 ## My Skills 🧠
 
