@@ -1,6 +1,6 @@
 # Cloud By Day! 
 
-![Banner Image](https://www.credly.com/badges/b79e538a-8e06-4b23-a05d-f9ade4256da6/public_url)
+![Banner Image](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)
 
 ## About Me 🚀
 
