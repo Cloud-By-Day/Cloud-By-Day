@@ -6,19 +6,22 @@
 
 I'm a passionate **[Cloud Engineer]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[SAA Certification, Python, CKS]**
+- 🌱 Currently learning: ** Currently in full study mode for SAA Certification and Begining with Python but by May of 2026 I must complet my CKS**
 - 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[Bash Scripting and A2 into B1 Level of Espanol]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[Once worked with NASA to solve an issue... Houston-We Have a Tech On The Line!!]**
+- 🌍 Languages: **Bash Scripting is my programming language and I am somewhere around A2 into the B1 Level of Espanol**
+- 📫 How to reach me: **My email is edafe.usa@gmail.com**
+- ⚡ Fun fact: **Once worked with NASA to solve an issue... Houston-We Have a Tech On The Line!!**
 
 ## My Skills 🧠
 
 ![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![ADO](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Google](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white)
+![K8S](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Sonar Cloud](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![K8S](https://img.shields.io/badge/wasmCloud-00BC8E?style=for-the-badge&logo=wasmCloud&logoColor=white)
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
