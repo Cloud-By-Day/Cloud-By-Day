@@ -41,8 +41,7 @@ I'm a passionate **[Cloud Engineer]** with experience in **[technologies you're 
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[LinkedIn]**(linkedin.com/in/bryant-onojeta-16b4297)
+
 
 
