@@ -6,7 +6,7 @@
 
 I'm a passionate **Cloud Engineer** with experience in **technologies you're proficient in**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: ** Full SAA Study Mode Currently, Begining Stages of Python,by May of 2026 CKS**
+- 🌱 Currently learning: **Full SAA Study Mode Currently, Begining Stages of Python,by May of 2026 CKS**
 - 🔭 Working on: **DevOps and Workflow Management with Argo**
 - 🌍 Languages: **Bash Scripting is my programming language and I am somewhere around A2 into the B1 Level of Espanol**
 - 📫 How to reach me: **My email is edafe.usa@gmail.com**
