@@ -4,10 +4,10 @@
 
 ## About Me 
 
-I'm a passionate **[Cloud Engineer]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Cloud Engineer** with experience in **technologies you're proficient in**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: ** Currently in full study mode for SAA Certification and Begining with Python but by May of 2026 I must complet my CKS**
-- 🔭 Working on: **[current projects or side-projects]**
+- 🌱 Currently learning: ** Full SAA Study Mode Currently, Begining Stages of Python,by May of 2026 CKS**
+- 🔭 Working on: **DevOps and Workflow Management with Argo**
 - 🌍 Languages: **Bash Scripting is my programming language and I am somewhere around A2 into the B1 Level of Espanol**
 - 📫 How to reach me: **My email is edafe.usa@gmail.com**
 - ⚡ Fun fact: **Once worked with NASA to solve an issue... Houston-We Have a Tech On The Line!!**
