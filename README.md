@@ -51,7 +51,7 @@ I'm a passionate **[Cloud Engineer]** with experience in **[technologies you're 
 
 ![Project 1 Screenshot](https://cdn.pixabay.com/photo/2017/10/26/17/51/under-construction-2891888_1280.jpg)
 
-**Work In Progress** is a **cleaning up file and code** built with **IaC,python,bash,aws,google**. This project area will be updated Soon ****Check Back Soon [here](project_1_repository_link).
+**Work In Progress** is a **cleaning up file and code** built with **IaC,python,bash,aws,google**. This project area will be updated Soon ****Check Back Soon (project_1_repository_link).
 
 
 ## Get in Touch 📬
